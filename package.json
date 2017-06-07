@@ -1,0 +1,18 @@
+{
+  "name": "sk-js-promisify",
+  "version": "1.0.0",
+  "description": "a tool of Javascript to promise",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "promise"
+  ],
+  "author": "Shook Gao",
+  "license": "MIT"
+}
